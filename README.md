@@ -15,7 +15,7 @@ by it  .
 # OBJECTIVES
 1. Create KPI for (a) current month transcation (b) current month profits (c) current month revenue (d) current month returns 
 2. Create time intelligence measures 
-3. Using gauge chart show total target vs revenue target 
+3. Using gauge chart show (A) total target vs revenue target(B) Current vs target month order (c) current month vs target revenue (d) current vs previous month returns 
 4. Create a drill through to hover to the product details 
 5. creating forecasting of the weeekly profit for next three month using the visualization analytics options 
 6. Customer with highest revenues , profit and orders . 
